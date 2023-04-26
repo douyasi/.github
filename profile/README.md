@@ -26,7 +26,9 @@
 - [yascmf](https://github.com/douyasi/yascmf): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![LaravelCMS](https://img.shields.io/badge/-Laravel%20CMS-000000?style=flat&logo=laravel) 芽丝内容管理框架 | A CMS/CMF system by Laravel
 - [simple-api-service](https://github.com/douyasi/simple-api-service): ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) Simple restful API service Demo | 简单的 `Restful API` 服务演示项目
 
+### Special Thanks
 
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
 
 <!--
 
