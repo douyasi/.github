@@ -5,7 +5,7 @@
 ### Tools
 
 - [db-dict](https://github.com/douyasi/db-dict): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
- MySQL数据库数据字典生成脚本 | MySQL Database Dictionary Generator
+ MySQL数据库数据字典导出器 | MySQL Database Dictionary Exporter
 - [locator](https://github.com/douyasi/locator): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) Browser Preferred Language Detector | 浏览器语言偏好侦测器
  
 ### Open Data
