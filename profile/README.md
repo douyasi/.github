@@ -15,9 +15,9 @@
 
 ### Web Editors
 
-- [laravel-editor-md](https://github.com/douyasi/laravel-editor-md): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) [editor.md](https://pandao.github.io/editor.md/) for Laravel, markdown editor for Laravel
+- [laravel-editor-md](https://github.com/douyasi/laravel-editor-md): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) [editor.md](https://pandao.github.io/editor.md/) for Laravel, markdown editor for Laravel (Official editor.md has not been updated for a long time and appears to have been abandoned. So I archived this project/package.)
 - [laravel-ckeditor](https://github.com/douyasi/laravel-ckeditor): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) [CKEditor](https://ckeditor.com/) for Laravel
-- [laravel-wang-editor](https://github.com/douyasi/laravel-wang-editor): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) [wangEditor](https://www.wangeditor.com/) for Laravel
+- [laravel-wang-editor](https://github.com/douyasi/laravel-wang-editor): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) [wangEditor](https://www.wangeditor.com/) for Laravel (This project/package is archived. Recommend using the newest [wangEditor5](https://www.wangeditor.com/en/v5/for-frame.html) in React/Vue frontend project.)
 - [laravel-web-editors](https://github.com/douyasi/laravel-web-editors): ![MarkdownDocument](https://img.shields.io/badge/-document-000000?style=flat&logo=markdown) 收集 @laravel 网页编辑器扩展包 | Collection of @laravel web-editor packages
 
 ### Archives/Deprecated Projects
