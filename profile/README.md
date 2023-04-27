@@ -23,7 +23,7 @@
 ### Archives/Deprecated Projects
 
 - [baofoo](https://github.com/douyasi/baofoo): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) 宝付支付SDK | Baofoo Pay SDK
-- [yascmf](https://github.com/douyasi/yascmf): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![LaravelCMS](https://img.shields.io/badge/-Laravel%20CMS-000000?style=flat&logo=laravel) 芽丝内容管理框架 | A CMS/CMF system by Laravel
+- [yascmf](https://github.com/douyasi/yascmf): ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php) ![LaravelCMS](https://img.shields.io/badge/-Laravel%20CMS-000000?style=flat&logo=laravel) 芽丝内容管理框架 | CMS/CMF by Laravel
 - [simple-api-service](https://github.com/douyasi/simple-api-service): ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) Simple restful API service Demo | 简单的 `Restful API` 服务演示项目
 
 ### Special Thanks
